@@ -236,7 +236,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		5B50392518706368002B2B12 /* ZZConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZZConstants.h; sourceTree = "<group>"; };
+		5B50392518706368002B2B12 /* ZZConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZConstants.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5B50392E187069E4002B2B12 /* ZZStandardCryptoEngine.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ZZStandardCryptoEngine.cpp; sourceTree = "<group>"; };
 		5B50392F187069E4002B2B12 /* ZZStandardCryptoEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZStandardCryptoEngine.h; sourceTree = "<group>"; };
 		5B50393218707C36002B2B12 /* ZZStandardDecryptInputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZStandardDecryptInputStream.h; sourceTree = "<group>"; };
@@ -250,7 +250,7 @@
 		D81DF41E1871471E00501A61 /* ZZScopeGuard.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZZScopeGuard.h; sourceTree = "<group>"; };
 		D834255F1876747200E7A559 /* ZZInflateInputStream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZInflateInputStream.m; sourceTree = "<group>"; };
 		D834256218767E1900E7A559 /* ZZStandardDecryptInputStream.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ZZStandardDecryptInputStream.mm; sourceTree = "<group>"; };
-		D8366ACC16B1F8B400BC012E /* ZZError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZError.h; sourceTree = "<group>"; };
+		D8366ACC16B1F8B400BC012E /* ZZError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZError.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D8366ACD16B1F8B400BC012E /* ZZError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZError.m; sourceTree = "<group>"; };
 		D84247E4196535B700B62453 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 		D84A449E16A0D91B00CF00A9 /* ZZChannel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZChannel.h; sourceTree = "<group>"; };
@@ -281,9 +281,9 @@
 		D899CF9F162C5EC100112F49 /* ZipZapTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ZipZapTests-Info.plist"; sourceTree = "<group>"; };
 		D899CFA1162C5EC100112F49 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D899CFB0162C5EEB00112F49 /* libZipZap.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libZipZap.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		D899CFD8162C608300112F49 /* ZZArchiveEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZArchiveEntry.h; sourceTree = "<group>"; };
+		D899CFD8162C608300112F49 /* ZZArchiveEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZArchiveEntry.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D899CFD9162C608300112F49 /* ZZArchiveEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZArchiveEntry.m; sourceTree = "<group>"; };
-		D899CFDA162C608300112F49 /* ZZArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZArchive.h; sourceTree = "<group>"; };
+		D899CFDA162C608300112F49 /* ZZArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZArchive.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D899CFDB162C608300112F49 /* ZZArchive.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ZZArchive.mm; sourceTree = "<group>"; };
 		D899CFDC162C608300112F49 /* ZZInflateInputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZInflateInputStream.h; sourceTree = "<group>"; };
 		D899CFDE162C608300112F49 /* ZZDeflateOutputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZDeflateOutputStream.h; sourceTree = "<group>"; };
@@ -292,7 +292,7 @@
 		D899CFE1162C608300112F49 /* ZZStoreOutputStream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZStoreOutputStream.m; sourceTree = "<group>"; };
 		D899CFE2162C608300112F49 /* ZZOldArchiveEntryWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZOldArchiveEntryWriter.h; sourceTree = "<group>"; };
 		D899CFE3162C608300112F49 /* ZZOldArchiveEntryWriter.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ZZOldArchiveEntryWriter.mm; sourceTree = "<group>"; };
-		D899CFE4162C608300112F49 /* ZZHeaders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZHeaders.h; sourceTree = "<group>"; };
+		D899CFE4162C608300112F49 /* ZZHeaders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZHeaders.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D899CFE5162C608300112F49 /* ZZNewArchiveEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZNewArchiveEntry.h; sourceTree = "<group>"; };
 		D899CFE6162C608300112F49 /* ZZNewArchiveEntry.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; lineEnding = 0; path = ZZNewArchiveEntry.mm; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D899CFE7162C608300112F49 /* ZZNewArchiveEntryWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZNewArchiveEntryWriter.h; sourceTree = "<group>"; };
@@ -305,10 +305,10 @@
 		D899D0221631888000112F49 /* ZZTasks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZTasks.h; sourceTree = "<group>"; };
 		D899D0231631888000112F49 /* ZZTasks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZTasks.m; sourceTree = "<group>"; };
 		D8A32627163BFF3D008606AC /* README.markdown */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
-		D8A32673163C2240008606AC /* LICENSE.text */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.text; sourceTree = "<group>"; };
+		D8A32673163C2240008606AC /* LICENSE.text */ = {isa = PBXFileReference; lastKnownFileType = text; lineEnding = 0; path = LICENSE.text; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = "<none>"; };
 		D8ABBF3C18883528002858BE /* ZZAESDecryptInputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZAESDecryptInputStream.h; sourceTree = "<group>"; };
 		D8ABBF3D18883528002858BE /* ZZAESDecryptInputStream.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ZZAESDecryptInputStream.mm; sourceTree = "<group>"; };
-		D8B0FD611640A6B000727A70 /* ZipZap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZipZap.h; sourceTree = "<group>"; };
+		D8B0FD611640A6B000727A70 /* ZipZap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZipZap.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D8B83A7619B7CBB400CF72B6 /* ZZZipNewTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZZipNewTests.m; sourceTree = "<group>"; };
 		D8B83A7819B7CBD000CF72B6 /* ZZZipNewTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ZZZipNewTests.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		D8B83A7C19B7D39200CF72B6 /* ZZZipOldTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZZipOldTests.m; sourceTree = "<group>"; };
