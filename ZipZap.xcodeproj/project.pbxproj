@@ -1202,6 +1202,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
+				WARNING_LDFLAGS = "-w";
 			};
 			name = Debug;
 		};
@@ -1246,6 +1247,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
+				WARNING_LDFLAGS = "-w";
 			};
 			name = Release;
 		};
