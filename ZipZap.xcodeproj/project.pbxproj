@@ -760,7 +760,7 @@
 		D899CF77162C5E8400112F49 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1320;
+				LastUpgradeCheck = 9999;
 				TargetAttributes = {
 					D87BA1F71B3D6DEA00ED7EB3 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -772,11 +772,11 @@
 			};
 			buildConfigurationList = D899CF7A162C5E8400112F49 /* Build configuration list for PBXProject "ZipZap" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = D899CF75162C5E8400112F49;
 			productRefGroup = D899CF83162C5EC100112F49 /* Products */;
